@@ -8,7 +8,7 @@ basic.forever(function () {
     } else if (degress < 225) {
         basic.showString("S")
     } else if (degress < 315) {
-        basic.showString("N")
+        basic.showString("W")
     } else {
         basic.showString("N")
     }
